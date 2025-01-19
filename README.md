@@ -1,6 +1,7 @@
 # 12-projet-d-analyses-de-donn-es
 Ce repository contient les 12 projets d'annalyse de données lancé par la promotrice de la chaine youtube @lecoinstat
-<h1> projet 1 </h1>
+<h1> projet 1 :  Suivre et visualiser les performances
+ des ventes avec un tableau de bord (Excel)</h1>
 
 <h2>  Problématique métier </h2>
 Une entreprise souhaite suivre les performances des ventes par région
