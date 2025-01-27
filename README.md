@@ -21,3 +21,15 @@ Une entreprise souhaite suivre les performances des ventes par région
  <h2> Objectif </h2>
   Étudier les distributions des scores de performance et des heures
  travaillées pour détecter les facteurs d'amélioration.
+
+<h1> Projet 3 : Identifier les facteurs qui influencent les
+ performances commerciales (Python ou R)</h1>
+
+<h2>  Problématique métier </h2>
+ Une entreprise souhaite comprendre les interactions entre ses
+ produits, ses performances régionales et ses marges pour optimiser sa
+ stratégie commerciale.
+ 
+ <h2> Objectif </h2>
+ Analyser les relations quali-quali, quali-quanti et quanti-quanti pour
+ détecter des facteurs clés.
