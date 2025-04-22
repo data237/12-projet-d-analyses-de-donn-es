@@ -33,3 +33,16 @@ Une entreprise souhaite suivre les performances des ventes par région
  <h2> Objectif </h2>
  Analyser les relations quali-quali, quali-quanti et quanti-quanti pour
  détecter des facteurs clés.
+
+ <h1> Projet 4 : Analyser les écarts de performance entre
+ départements (Python ou R)</h1>
+
+<h2>  Problématique métier </h2>
+  Une entreprise souhaite analyser les écarts de performance entre ses
+ départements en explorant les relations entre variables qualitatives
+ (départements, satisfaction) et quantitatives (scores de performance,
+ heures travaillées).
+ 
+ <h2> Objectif </h2>
+ Valider les différences observées en appliquant des tests statistiques
+ adaptés.
