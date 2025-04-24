@@ -46,3 +46,12 @@ Une entreprise souhaite suivre les performances des ventes par région
  <h2> Objectif </h2>
  Valider les différences observées en appliquant des tests statistiques
  adaptés.
+
+ <h1> Projet 5 :  Automatiser les rapports de ventes avec SQ</h1>
+
+<h2>  Problématique métier </h2>
+  Une entreprise souhaite produire un rapport détaillant les ventes
+ totales par produit pour le dernier trimestre.
+ 
+ <h2> Objectif </h2>
+ Utiliser SQL pour extraire, filtrer et agréger les données nécessaires.
