@@ -55,3 +55,14 @@ Une entreprise souhaite suivre les performances des ventes par région
  
  <h2> Objectif </h2>
  Utiliser SQL pour extraire, filtrer et agréger les données nécessaires.
+
+ <h1> Projet 7 :  Créer un tableau de bord interactif pour les performances commerciales (Power BI ou Tableau)</h1>
+
+<h2>  Problématique métier </h2>
+ Une entreprise souhaite un tableau de bord interactif pour suivre les
+ performances commerciales en temps réel.
+ 
+ <h2> Objectif </h2>
+ Visualiser les KPI clés, les tendances de ventes et les performances
+ régionales.
+
